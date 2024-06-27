@@ -1,22 +1,29 @@
-<h1>Survey Form Practice</h1>
+<h1>School Lab - Cryptography and Decoding</h1>
 
 
 <h2>Description</h2>
-It's a self-practicing project. The survey aims to understand the financial aspects of pet ownership, specifically how much individuals are willing to spend on their pets.
+Shuffle the elements in a list and try to find the original order of the list.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>HTML</b> 
-- <b>CSS</b>
+- <b>Python</b> 
 
 
-<h2>Survey Form Display</h2>
+<h2>Program Screenshots</h2>
 
 <p align="center">
-<br/>
-<img src="https://i.imgur.com/TDX3JQi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Display the original sentence: <br/>
+<img src="https://i.imgur.com/YmDnW6p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Turn the sentence into an one-dimensional list and shuffle the list: <br/>
+<img src="https://i.imgur.com/suLMsHl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Display all the permutations of the list (only show part of the permutaions here): <br/>
+<img src="https://i.imgur.com/ChjtDXP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
